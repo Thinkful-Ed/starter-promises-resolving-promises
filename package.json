@@ -1,12 +1,20 @@
 {
   "name": "starter",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/main.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robensonjl/starter-promises-resolving-promises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Robensonjl/starter-promises-resolving-promises/issues"
+  },
+  "homepage": "https://github.com/Robensonjl/starter-promises-resolving-promises#readme",
+  "description": ""
 }
